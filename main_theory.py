@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 12 10:58:07 2022
-
-@author: pierretramoni
-"""
 import numpy as np
 from numpy.linalg import inv,  lstsq, matrix_power
 from fractions import Fraction

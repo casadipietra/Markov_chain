@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  2 11:59:06 2022
-
-@author: pierretramoni
-"""
-
 from main_empirical import *
 from main_theory import *
 from matplotlib import pyplot as plt

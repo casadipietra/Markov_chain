@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  1 18:15:57 2022
-
-@author: pierretramoni
-"""
-
 import numpy as np
 from matplotlib import pyplot as plt
 from scipy import stats
